@@ -1,2 +1,3 @@
-HI hello
-this is added to the alphabet diamond pattern
+Hi hello
+-this is from pattern modification
+
