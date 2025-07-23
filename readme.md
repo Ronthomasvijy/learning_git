@@ -1,1 +1,2 @@
-hello this is a test 
+HI hello
+this is added to the alphabet diamond pattern
